@@ -1,0 +1,865 @@
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+No route!
+Auth login
+Control parameter!
+Auth login
+Control parameter!
+Username Access: 'test'
+ERROR: User 'test' not authorized
+Auth login
+Control parameter!
+Username Access: 'test@test.it'
+ERROR: User 'test@test.it' not authorized
+Auth login
+Control parameter!
+Username Access: test@test.it
+User test@test.it authorized
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control parameter!
+Username Access: test@test.it
+User test@test.it authorized
+Auth login
+Control parameter!
+Username Access: test@test.it
+User test@test.it authorized
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control parameter!
+Username Access: test@test.it
+User test@test.it authorized
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control parameter!
+Username Access: test@test.it
+User test@test.it authorized
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control parameter!
+Username Access: test@test.it
+User test@test.it authorized
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control parameter!
+Username Access: test@test.it
+User test@test.it authorized
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control parameter!
+Username Access: test@test.it
+User test@test.it authorized
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control parameter!
+Username Access: test@test.it
+User test@test.it authorized
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: 
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control parameter!
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control parameter!
+Auth login
+Control parameter!
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control parameter! undefined - undefined
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+undefined
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Auth login
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control parameter! developers@crmpartners.it - YJybIaD?6bB;hmoAsS8P^$
+Username Access: developers@crmpartners.it
+User developers@crmpartners.it authorized
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control body! developers@crmpartners.it - YJybIaD?6bB;hmoAsS8P^$
+OK BODY!
+Control Username Access: developers@crmpartners.it
+User developers@crmpartners.it authorized
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control body! developers@crmpartners.it - YJybIaD?6bB;hmoAsS8P^$
+OK BODY!
+Control Username Access: developers@crmpartners.it
+User developers@crmpartners.it authorized
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control body! developers@crmpartners.it - YJybIaD?6bB;hmoAsS8P^$a
+OK BODY!
+Control Username Access: developers@crmpartners.it
+ERROR: User developers@crmpartners.it not authorized
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control body! developers@crmpartners.it - YJybIaD?6bB;hmoAsS8P^$
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control body! developers@crmpartners.it - YJybIaD?6bB;hmoAsS8P^$
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control body! developers@crmpartners.it - YJybIaD?6bB;hmoAsS8P^$
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control body! developers@crmpartners.it - YJybIaD?6bB;hmoAsS8P^$
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control body! developers@crmpartners.it - YJybIaD?6bB;hmoAsS8P^$
+User developers@crmpartners.it authorized
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control body! developers@crmpartners.it - YJybIaD?6bB;hmoAsS8P^$
+User developers@crmpartners.it authorized
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+Auth login
+Control body! developers@crmpartners.it - YJybIaD?6bB;hmoAsS8P^$
+User developers@crmpartners.it authorized
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
+INFO: Mock Server!!!
+INFO: Servizi attivi: allowCors,Home,auth
+INFO: Server listening on http://localhost:3001
